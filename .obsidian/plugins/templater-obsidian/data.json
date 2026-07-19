@@ -1,0 +1,44 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Z_Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "Obsidia/Npc Catalog/3 Neutral or Undecided",
+      "template": "Z_Templates/TemplateNPC.md"
+    },
+    {
+      "folder": "Campaign Notes/1 Player Characters",
+      "template": "Z_Templates/Player Template.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    "Z_Templates/AddChar.md"
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "intellisense_render": 1,
+  "ignore_folders_on_creation": [],
+  "enable_ribbon_icon": true
+}

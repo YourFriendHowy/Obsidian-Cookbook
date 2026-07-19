@@ -1,0 +1,11 @@
+{
+  "showInlineTitle": true,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "rightToLeft": false,
+  "defaultViewMode": "preview",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "ZZZZ Images"
+}

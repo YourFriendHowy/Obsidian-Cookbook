@@ -1,0 +1,61 @@
+/* 208, 78, 78 */
+
+.callout[data-callout="voice"] {
+	--callout-color: 240,164,94;
+	--callout-icon: lucide-speech;
+}
+
+.callout[data-callout="quirks"] {
+	--callout-color: 208, 78, 78;
+	--callout-icon: lucide-drama;
+}
+
+.callout[data-callout="personality"] {
+	--callout-color: 208, 78, 78;
+	--callout-icon: lucide-brain;
+}
+
+.callout[data-callout="statblock"] {
+	--callout-color: 26, 30, 36;
+}
+
+.callout[data-callout="encounter"] {
+	--callout-color: 26, 30, 36;
+	--callout-icon: lucide-swords;
+}
+/* Table of contents */
+.callout[data-callout="toc"] {
+	--callout-color: 26, 30, 36;
+	--callout-icon: lucide-table;
+}
+
+.callout[data-callout="quips"] {
+	--callout-color: 240,164,94;
+	--callout-icon: lucide-message-circle;
+}
+
+.callout[data-callout="possessions"] {
+	--callout-color: 208, 78, 78;
+	--callout-icon: lucide-piggy-bank;
+}
+
+.callout[data-callout="secrets"] {
+	--callout-color: 240,164,94;
+	--callout-icon: lucide-ear;
+}
+
+.callout[data-callout="relations"] {
+	--callout-color: 240,164,94;
+	--callout-icon: lucide-heart-handshake;
+}
+
+.callout[data-callout="holy"] {
+	--callout-color: 208, 78, 78;
+	--callout-icon: lucide-sparkles;
+}
+
+.callout[data-callout="template"] {
+	color: #ff0000;
+	--callout-color: 125, 125, 125;
+	--callout-icon: lucide-layout-panel-top;
+}
