@@ -1,2 +1,1 @@
 # Obsidian-Cookbook
-# Obsidian-Cookbook
