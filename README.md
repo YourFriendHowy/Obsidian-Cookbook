@@ -43,8 +43,8 @@ The core automation, interactive buttons, and custom link styling rely on the fo
   - Dynamic `AND / OR` matching logic toggle directly inside the selector.
   - Displays property origin tags (e.g., `Almond Milk [dairy]` vs `Almond Milk [Liquid_base]`) to eliminate collision duplicates.
 
-- **Clean & Modular Structure:**
-  - Strict folder organization dividing recipes (`Breakfast`, `Lunch`, `Dinner`, `Desserts`) from templates and system resources (`Z_Templates`, `Z_Resources`).
+- ** Clean & Modular Structure:**
+  - Strict folder organization dividing recipes (`Breakfast`, `Lunch`, `Dinner`, `Desserts`, `Beverages`) from templates and system resources (`Z_Templates`, `Z_Resources`).
   - Targeted query insertion safeguards that keep your actual recipe files clean.
 
 ---
