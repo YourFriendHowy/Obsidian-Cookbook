@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🍹",
       "SiReadme",
       "TiLicense",
       "FarImages",
-      "OcProjectTemplate24",
-      "CoFiles"
+      "OcProjectTemplate24"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -80,5 +80,6 @@
   "Z_Templates": "OcProjectTemplate24",
   "ZZZZ images": "FarImages",
   "LICENSE": "TiLicense",
-  "README.md": "SiReadme"
+  "README.md": "SiReadme",
+  "Beverages": "🍹"
 }
